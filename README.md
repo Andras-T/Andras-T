@@ -25,8 +25,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![3dsMax](https://img.shields.io/badge/3ds%20Max-FFAE1A?style=for-the-badge&logo=autodesk&logoColor=white)
+![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal%20engine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
  ## Who am I?
  ```python
@@ -53,12 +57,10 @@
  
 ## 🔭 Current Works
  * I'm currently working on a **fluid simulation app using Vulkan** and working up on polishing my skills.
- * As a side project I am also working on creating my website. 
-
+ * As a side project I am also working on creating my website.
+ * I’m looking to collaborate on ...Open Source Projects.
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
-  
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=Andras-T&show_icons=true&hide=issues,stars&theme=tokyonight)
 
   <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Andras-T&theme=tokyonight&background=0d1117&hide_border=true" />
@@ -78,5 +80,3 @@
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
 </div>
-
-
