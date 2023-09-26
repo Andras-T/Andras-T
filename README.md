@@ -6,7 +6,8 @@
 </details>
 
 :credit_card: My full name is **András Tóth**
-- :school: I'm currently 3rd year student at **Budapest University of Technology and Economics**
+- :school: I'm currently senior student at **Budapest University of Technology and Economics**
+- 🏢: I'm a C++ Developer Intern also at MSCI
 - :books: My major is **Computer Engineering**
 - :earth_asia: I'm living now in **Budapest**
 - :monocle_face: I'm interested in coding, sleeping, sports and watching movies
@@ -38,8 +39,8 @@
     user = 'András Tóth'
     current_edu = "Budapest University of Technology and Economics"
     hobbies = [
-      'Football',
       'Formula-1',
+      'Football',
       'Building and repairing electonics'
       'Ice skating'
       ]
@@ -57,15 +58,9 @@
  
 ## 🔭 Current Works
  * I'm currently working on a **fluid simulation app using Vulkan** and working up on polishing my skills.
- * As a side project I am also working on creating my website.
  * I’m looking to collaborate on ...Open Source Projects.
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
-
-  <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Andras-T&theme=tokyonight&background=0d1117&hide_border=true" />
-  
-</div>
 
 <p align="center">
   <a href="mailto:andrewthetoth@gmail.com" >
