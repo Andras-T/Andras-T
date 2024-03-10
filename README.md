@@ -6,8 +6,7 @@
 </details>
 
 :credit_card: My full name is **András Tóth**
-- :school: I'm currently senior student at **Budapest University of Technology and Economics**
-- 🏢: I'm a C++ Developer Intern also at MSCI
+- :school: I'm currently master student at **Budapest University of Technology and Economics**
 - :books: My major is **Computer Engineering**
 - :earth_asia: I'm living now in **Budapest**
 - :monocle_face: I'm interested in coding, sleeping, sports and watching movies
@@ -57,10 +56,7 @@
  ```
  
 ## 🔭 Current Works
- * I'm currently working on a **fluid simulation app using Vulkan** and working up on polishing my skills.
- * I’m looking to collaborate on ...Open Source Projects.
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
-<div align="center">
+ * I'm currently working on a **Networking app using Vulkan** and working up on polishing my skills.
 
 <p align="center">
   <a href="mailto:andrewthetoth@gmail.com" >
