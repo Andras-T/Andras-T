@@ -6,10 +6,10 @@
 </details>
 
 :credit_card: My full name is **András Tóth**
-- :school: I'm currently master student at **Budapest University of Technology and Economics**
+- :school: I'm **C++** developer at MSCI
 - :books: My major is **Computer Engineering**
-- :earth_asia: I'm living now in **Budapest**
-- :monocle_face: I'm interested in coding, sleeping, sports and watching movies
+- :earth_asia: I live in **Budapest**
+- :monocle_face: I'm interested in coding, sports and finance
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -36,7 +36,7 @@
  ```python
  class WhoAmI:
     user = 'András Tóth'
-    current_edu = "Budapest University of Technology and Economics"
+    edu = "Budapest University of Technology and Economics"
     hobbies = [
       'Formula-1',
       'Football',
@@ -54,9 +54,6 @@
       CloneMyself()
 	
  ```
- 
-## 🔭 Current Works
- * I'm currently working on a **Networking app using Vulkan** and working up on polishing my skills.
 
 <p align="center">
   <a href="mailto:andrewthetoth@gmail.com" >
